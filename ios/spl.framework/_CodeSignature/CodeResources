@@ -4,57 +4,45 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Frameworks/SwiftyRSA.framework/Info.plist</key>
-		<data>
-		tRCmVe9/pgRz5qJ6DcwA1c3ZoL0=
-		</data>
-		<key>Frameworks/SwiftyRSA.framework/SwiftyRSA</key>
-		<data>
-		fwOuLjCvSc2keIZIhfzYOaAS0N0=
-		</data>
-		<key>Frameworks/SwiftyRSA.framework/_CodeSignature/CodeResources</key>
-		<data>
-		U1jvLGxEpjC8CxewFEvd4EMhe7k=
-		</data>
 		<key>GoogleService-Info.plist</key>
 		<data>
 		DlipnWYoc2CcFFTJKShnVM+aRrI=
 		</data>
 		<key>Headers/spl-Swift.h</key>
 		<data>
-		wGMDjQWbhycQtbEpPWtRDCW/NK4=
+		B+rgK7ASt0BTXvQ6o39eYnwVtb4=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		E7PvBoh8ejL7jvNOwsIkD1BVXOY=
+		LB7bOWAZeja+sG92BmGEdS1Buuw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		aJIN5gsF7pS8lTTSJ7R0U2lLD2M=
 		</data>
-		<key>Modules/spl.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<key>Modules/spl.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		y2lEmqGCdiEuK227n/Ph6uPojY0=
+		OPwkfVvTkMXGGJrpJK1FYtObG5I=
 		</data>
-		<key>Modules/spl.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<key>Modules/spl.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
 		ivpt1vgsd4rVepD/qjakopN20Rc=
 		</data>
-		<key>Modules/spl.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<key>Modules/spl.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		YOSVOUKKGnQnKPLKHSOY7pFsz3Y=
+		eetNC8lFRd6uOs5aCJYeiw1VIjE=
 		</data>
-		<key>Modules/spl.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/spl.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		xVsZUATzqY9ehRmOVBZKBpDYSjI=
+		uTm2uvW9DCxNSGpw/xadWv8e9sQ=
 		</data>
-		<key>Modules/spl.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<key>Modules/spl.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		YOSVOUKKGnQnKPLKHSOY7pFsz3Y=
+		eetNC8lFRd6uOs5aCJYeiw1VIjE=
 		</data>
-		<key>Modules/spl.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<key>Modules/spl.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		eNpEwmXFOmDmVJrkGS9rAcynrsI=
+		2tNU4kxoXu9CBDg5cJrI0LfSd9c=
 		</data>
 		<key>spl.md</key>
 		<data>
@@ -63,27 +51,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Frameworks/SwiftyRSA.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			4Euhp5RDMXembbzqEPg8+1gdXuKoQC3xs9L0OtX4c1g=
-			</data>
-		</dict>
-		<key>Frameworks/SwiftyRSA.framework/SwiftyRSA</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			2NgkKOHPJaQiN9VbMo1P1MEqInPD3lO7ueV2MBxdkFg=
-			</data>
-		</dict>
-		<key>Frameworks/SwiftyRSA.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			nbihGdaasFap3HxKATZ9IOrgh+MjoyQeu6LBANTMRbE=
-			</data>
-		</dict>
 		<key>GoogleService-Info.plist</key>
 		<dict>
 			<key>hash2</key>
@@ -95,7 +62,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4Uwxn14mX9dJlj+vmClq/+7+AZZNE74Y4WYC9XID5m0=
+			4eqcNENYfirAYeoCGWRNRwlT+ltwKn02PYXkqp9i0mE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -105,46 +72,46 @@
 			mfg9FtcrwzNHsLulGO9NAXB/AG4XXGZCMZxGguOWGfU=
 			</data>
 		</dict>
-		<key>Modules/spl.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<key>Modules/spl.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mV1RGzxOXRBCUiAuRisxHixo4JHmNN8OxoXGvUi2ZYE=
+			0CgyK10ed4Jdj+Lt1J+2uEgjZQCsumYxJII60kJupM4=
 			</data>
 		</dict>
-		<key>Modules/spl.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<key>Modules/spl.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			nE2BuHxftiQ7/80MRHXWfb1Cki+pzY/u1I1ZBWpInZs=
 			</data>
 		</dict>
-		<key>Modules/spl.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<key>Modules/spl.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			atAgX2lM8hgFbQxPW+8ThX82SSHvUZ/G4A2gQECg/tA=
+			Fu3OrvbAiSWjkWqO+RVA/luw3Zo+gki7CGrCNhxfhcs=
 			</data>
 		</dict>
-		<key>Modules/spl.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/spl.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GfkJYOJc6cmb5zpwvRY9drAWCMpq4ugw9nLdt+izCKk=
+			o1ZzkWVIA4xSCGhkMoEKrse7GNyRC3l3+lo6DHXWJ+g=
 			</data>
 		</dict>
-		<key>Modules/spl.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<key>Modules/spl.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			atAgX2lM8hgFbQxPW+8ThX82SSHvUZ/G4A2gQECg/tA=
+			Fu3OrvbAiSWjkWqO+RVA/luw3Zo+gki7CGrCNhxfhcs=
 			</data>
 		</dict>
-		<key>Modules/spl.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<key>Modules/spl.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7aXkjrq7zKrXltGdscM7PF2H4GgvTXZxZlpfA+Y7Oj4=
+			AOi0QOaLUFDyH871SZqRbDOt/FgxFMkX5B8Lw13unVA=
 			</data>
 		</dict>
 		<key>spl.md</key>
