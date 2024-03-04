@@ -14,39 +14,39 @@
 		</data>
 		<key>Headers/paymentlib-Swift.h</key>
 		<data>
-		2OO04gsW5e3iLAbSDuPS65wuW6U=
+		ky/SON/Pxxxny9895pG6FVipIqQ=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		x/sKwymwOHGUvQ+bMj/sObhBmro=
+		1jaKicOB4HZnYwzvrq0FPcXxDO4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		/QAQnB1MffXDYztlebZa7E33YzI=
 		</data>
-		<key>Modules/paymentlib.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
+		<key>Modules/paymentlib.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		awphtlTRcHTtQsh/iTZebEsrhOU=
+		shyOjZ9T6wiwa1/EGX4UCvRjCG8=
 		</data>
-		<key>Modules/paymentlib.swiftmodule/arm64-apple-ios.abi.json</key>
+		<key>Modules/paymentlib.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		HC09RaSn1/Alo79MSffE983/KcQ=
+		417H6BQsyqBo6HSEmw2qmVzjyvA=
 		</data>
-		<key>Modules/paymentlib.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<key>Modules/paymentlib.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		xP5BYx3lAydUoVGh2O8GWuP0mhk=
+		JFMVfyukES4ODEObXD1COaqUQOg=
 		</data>
-		<key>Modules/paymentlib.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<key>Modules/paymentlib.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		O/O1ShUn6aDaSJ7xwlKnsO+VQoU=
+		8Y0SVp5C6qTy+JeuafZQPw0NY7s=
 		</data>
-		<key>Modules/paymentlib.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<key>Modules/paymentlib.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		xP5BYx3lAydUoVGh2O8GWuP0mhk=
+		JFMVfyukES4ODEObXD1COaqUQOg=
 		</data>
-		<key>Modules/paymentlib.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<key>Modules/paymentlib.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		GwXCkSqhIt1x5sFMth+9RifNaUQ=
+		JoTOn70dAfj5cBmCeYQN5d+NsWA=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -69,7 +69,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			q6WntswbzZAndAh4eUWNNCUg1OMQ/b4GazQtiIqVlfw=
+			l5e7PbZj/xCuLdWJpKvyWA4bptorKNYW/+aL3cP1I80=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -79,46 +79,46 @@
 			sAc47vrPckx/M84MRpNhtCuSdEU51tBLflneNvhmWEY=
 			</data>
 		</dict>
-		<key>Modules/paymentlib.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
+		<key>Modules/paymentlib.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZuHxiQJm3CaucmFvP9K3g5IHO0nAtl5JUwaIpebpVfw=
+			mVm8oxawZGdxGH1wDcH9T3bcMap3cy0CofNaWXVhEow=
 			</data>
 		</dict>
-		<key>Modules/paymentlib.swiftmodule/arm64-apple-ios.abi.json</key>
+		<key>Modules/paymentlib.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XFBPdQkSzTifPQPfj4QOT+K1suCkhwtvZgfVTAYpaOg=
+			Au8mfv2cm2K6l4U3rOzdoi7OIKtbHoKbI+hJNI83NI0=
 			</data>
 		</dict>
-		<key>Modules/paymentlib.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<key>Modules/paymentlib.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yK4kUCA/pzpu8M28RntGcxofM7cHqnOWIbyGpUvvyMc=
+			kqwS0YEquzhbZiZn0fne4BIRpsHtmI+s/6iGMYaD1G8=
 			</data>
 		</dict>
-		<key>Modules/paymentlib.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<key>Modules/paymentlib.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Z9KKZ+eUGLsZ7FANzpjWI9+vvrHwnLalXD0bT1kGocI=
+			WZKyR4MVyxiELqDPXbKJI8fO6qTubIox5VMpaVK00Yc=
 			</data>
 		</dict>
-		<key>Modules/paymentlib.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<key>Modules/paymentlib.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yK4kUCA/pzpu8M28RntGcxofM7cHqnOWIbyGpUvvyMc=
+			kqwS0YEquzhbZiZn0fne4BIRpsHtmI+s/6iGMYaD1G8=
 			</data>
 		</dict>
-		<key>Modules/paymentlib.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<key>Modules/paymentlib.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			47lanFyAe+x52JXGNbCz2MY+GLi1qIrqf+8T2KCmWC8=
+			nBWaxO9sQqsLHmu3p1SW2gZchSExvNcojtfzK4vRpCk=
 			</data>
 		</dict>
 	</dict>
